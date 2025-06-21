@@ -20,3 +20,10 @@ The test is implemented for data coming from the following distributions:
 
 - Gamma
 - Weibull
+
+## Usage
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
