@@ -23,4 +23,4 @@ The test is implemented for data coming from the following distributions:
 
 ## Usage
 
-All code is in the [notebook](main.ipynb) file. The notebook contains implementations of the parametric and nonparametric methods along with a simulation study to compare the two methods and against the naive approach.
+All code is in the [notebook](ks-test-misuse.ipynb) file. The notebook contains implementations of the parametric and nonparametric methods along with a simulation study to compare the two methods and against the naive approach.
